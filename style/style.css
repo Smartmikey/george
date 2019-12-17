@@ -12,3 +12,7 @@ body{
 .gray-bg{
     background-color: #f1f3f4 ;
 }
+
+.abc li {
+    list-style-type: upper-alpha;
+}
